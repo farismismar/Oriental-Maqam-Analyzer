@@ -1,12 +1,12 @@
 # Oriental Maqam Analyzer
 
-This is a program I wrote in C that reads a wave file and finds the scale (Maqam) the file plays.  The algorithm uses pitch detection and a rule-based algorithm to detect the maqams, the jins a maqam is composed of, and the tonic.
+This is a program I wrote in C that reads a wave file and finds the scale (Maqam) the file plays.  The algorithm uses pitch detection and a rule-based algorithm to detect the maqams, the jins a maqam is composed of, and the tonic.  It has been ported to Android for faster adoption.
 
 ## Usage
-Install the `.apk` file and follow the user interface.
+On an Android device, install the `.apk` file and follow the prompts.
 
 ## Support
-If you like the work, consider leaving a donation on [PayPal](https://paypal.me/FarisMismar "PayPal.Me") to keep the code maintenance effort going.
+If you like the work, consider leaving a donation on [PayPal](https://paypal.me/FarisMismar "PayPal") to keep the code maintenance effort going.
 
 # Version History
 | Version |  Date  | Changes |
