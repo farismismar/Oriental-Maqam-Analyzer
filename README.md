@@ -41,3 +41,4 @@ If you like the work, consider leaving a donation on [PayPal](https://paypal.me/
 | 4.682 | Oct 21, 2026 | Improved noise detection |
 | 4.685 | Oct 25, 2026 | Better maqam discernment model parameters |
 | 4.7 | Oct 27, 2026 | New maqams: Huzam, Hussaini, and Nawa Athar |
+| 4.8 | Oct 31, 2026 | Improvement on detection and new maqams: Baste Nagar and Sikah Baladi |
