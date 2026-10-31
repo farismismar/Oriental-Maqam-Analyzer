@@ -1,6 +1,26 @@
 # Oriental Maqam Analyzer
 
-This is a program I wrote in C that reads a wave file and finds the scale (Maqam) the file plays.  The algorithm uses pitch detection and a rule-based algorithm to detect the maqams, the jins a maqam is composed of, and the tonic.  It has been ported to Android for faster adoption.
+This is a program I wrote in C that reads a wave file and finds the scale (Maqam) the file plays.  The algorithm uses pitch detection and a rule-based algorithm to detect the maqams, the jins a maqam is composed of, and the tonic.  It has been ported to Android as an app for faster adoption under the name ``Maqam detector''.
+
+The maqamat supported in this app are:
+
+1. Rast
+2. Bayati
+3. Nahawand
+4. Kurd
+5. Saba
+6. Ajam
+7. Hijaz (Diwan/oriental, Hijaz, and Hijaz Kar)
+8. Sikah
+9. Pentatonic
+10. Sikah Baladi (Hijaz ghareeb)
+11. Jiharkah (Egyptian)
+12. Hussaini
+13. Huzam
+14. Bu-Ata
+15. La-Mi
+16. Saba Zamzam
+17. Baste Negar
 
 ## Usage
 On an Android device, install the `.apk` file and follow the prompts.
