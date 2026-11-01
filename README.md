@@ -1,6 +1,6 @@
 # Oriental Maqam Analyzer
 
-This is a program I wrote in C that reads a wave file and finds the scale (Maqam) the file plays.  The algorithm uses pitch detection and a rule-based algorithm to detect the maqams, the jins a maqam is composed of, and the tonic.  It has been ported to Android as an app for faster adoption under the name ``Maqam detector''.
+This is a program I wrote in C that reads a wave file and finds the scale (Maqam) the file plays.  The algorithm uses pitch detection and a rule-based algorithm to detect the maqams, the jins a maqam is composed of, and the tonic.  It has been ported from my GCP [instance](https://maqam-498198414631.us-central1.run.app/ "Maqam detector") to Android as an app for faster adoption under the name ``Maqam detector''.
 
 The maqamat supported in this app are:
 
@@ -23,6 +23,8 @@ The maqamat supported in this app are:
 17. Baste Negar
 
 ## Usage
+On iOS, open the GCP URL above on Safari, bookmark it, and save the bookmark on the home screen to give it an iOS app feeling.
+
 On an Android device, install the `.apk` file and follow the prompts.
 
 ## Support
