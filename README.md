@@ -21,6 +21,7 @@ The maqamat supported in this app are:
 15. La-Mi
 16. Saba Zamzam
 17. Baste Negar
+18. Dasht
 
 ## Usage
 On iOS, open the GCP URL above on Safari, bookmark it, and save the bookmark on the home screen to give it an iOS app feeling.
@@ -64,3 +65,4 @@ If you like the work, consider leaving a donation on [PayPal](https://paypal.me/
 | 4.685 | Oct 25, 2026 | Better maqam discernment model parameters |
 | 4.7 | Oct 27, 2026 | New maqams: Huzam, Hussaini, and Nawa Athar |
 | 4.8 | Oct 31, 2026 | Improvement on detection and new maqams: Baste Nagar and Sikah Baladi |
+| 6.58.82 | Nov 6, 2026 | Further detection improvements, UI shows tones being played, and new maqam: Iraqi Dasht|
