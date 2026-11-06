@@ -21,7 +21,8 @@ The maqamat supported in this app are:
 15. La-Mi
 16. Saba Zamzam
 17. Baste Negar
-18. Dasht
+18. Nawa Athar
+19. Dasht
 
 ## Usage
 On iOS, open the GCP URL above on Safari, bookmark it, and save the bookmark on the home screen to give it an iOS app feeling.
