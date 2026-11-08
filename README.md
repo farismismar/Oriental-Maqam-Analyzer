@@ -66,4 +66,5 @@ If you like the work, consider leaving a donation on [PayPal](https://paypal.me/
 | 4.685 | Oct 25, 2026 | Better maqam discernment model parameters |
 | 4.7 | Oct 27, 2026 | New maqams: Huzam, Hussaini, and Nawa Athar |
 | 4.8 | Oct 31, 2026 | Improvement on detection and new maqams: Baste Nagar and Sikah Baladi |
-| 6.58.82 | Nov 6, 2026 | Further detection improvements, UI shows tones being played, and new maqam: Iraqi Dasht|
+| 6.5.82 | Nov 6, 2026 | Further detection improvements, UI shows tones being played, and new maqam: Iraqi Dasht|
+| 6.5.95 | Nov 7, 2026 | Minor tweaks |
