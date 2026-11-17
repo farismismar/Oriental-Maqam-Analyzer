@@ -25,7 +25,8 @@ The maqamat supported in this app are:
 19. Dasht
 
 ## Usage
-On iOS, use Sideloadly to install the .ipa file.
+On iOS, use Sideloadly to install the `.ipa` file.
+
 On an Android device, install the `.apk` file.
 
 ## Support
