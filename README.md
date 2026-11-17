@@ -68,3 +68,4 @@ If you like the work, consider leaving a donation on [PayPal](https://paypal.me/
 | 4.8 | Oct 31, 2026 | Improvement on detection and new maqams: Baste Nagar and Sikah Baladi |
 | 6.5.82 | Nov 6, 2026 | Further detection improvements, UI shows tones being played, and new maqam: Iraqi Dasht|
 | 6.5.103| Nov 9, 2026 | Minor tweaks |
+| 6.6 | Nov 16, 2026 | Improvements and tweaks |
