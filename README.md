@@ -15,14 +15,13 @@ The maqamat supported in this app are:
 9. Pentatonic
 10. Sikah Baladi (Hijaz ghareeb)
 11. Jiharkah (Egyptian)
-12. Hussaini
-13. Huzam
-14. Bu-Ata
-15. La-Mi
-16. Saba Zamzam
-17. Baste Negar
-18. Nawa Athar
-19. Dasht
+12. Huzam
+13. Bu-Ata
+14. La-Mi
+15. Saba Zamzam
+16. Baste Negar
+17. Nawa Athar
+18. Dasht
 
 ## Usage
 On iOS, use Sideloadly to install the `.ipa` file.
@@ -64,8 +63,8 @@ If you like the work, consider leaving a donation on [PayPal](https://paypal.me/
 | 4.681 | Oct 19, 2026 | Bug fixes and improvements |
 | 4.682 | Oct 21, 2026 | Improved noise detection |
 | 4.685 | Oct 25, 2026 | Better maqam discernment model parameters |
-| 4.7 | Oct 27, 2026 | New maqams: Huzam, Hussaini, and Nawa Athar |
+| 4.7 | Oct 27, 2026 | New maqams: Huzam and Nawa Athar |
 | 4.8 | Oct 31, 2026 | Improvement on detection and new maqams: Baste Nagar and Sikah Baladi |
 | 6.5.82 | Nov 6, 2026 | Further detection improvements, UI shows tones being played, and new maqam: Iraqi Dasht|
 | 6.5.103| Nov 9, 2026 | Minor tweaks |
-| 6.6 | Nov 17, 2026 | Improvements and tweaks |
+| 6.6 | Nov 19, 2026 | Improvements and tweaks |
